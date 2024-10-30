@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/callapp/static/css/main.e6c13ad2.css",
+    "main.js": "/callapp/static/js/main.b9f945ec.js",
+    "static/js/453.d707c5d5.chunk.js": "/callapp/static/js/453.d707c5d5.chunk.js",
+    "index.html": "/callapp/index.html",
+    "main.e6c13ad2.css.map": "/callapp/static/css/main.e6c13ad2.css.map",
+    "main.b9f945ec.js.map": "/callapp/static/js/main.b9f945ec.js.map",
+    "453.d707c5d5.chunk.js.map": "/callapp/static/js/453.d707c5d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b9f945ec.js"
+  ]
+}
